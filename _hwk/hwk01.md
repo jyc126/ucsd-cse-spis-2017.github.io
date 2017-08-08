@@ -41,7 +41,7 @@ yourself.
 (You are invited to read, understand, then summarize in your own words, rather than copying verbatim from the book.)
 
 </li>
-
+Declarative knowledge is to state a truth, result, or a pair of a question and an answer with no explanation as to how you get from probelm to solution. Imperative knowledge is the exact opposite in the sense that it deals exclusively on the steps necessary to get from problem to solution. 
 
 <li markdown="1" style="margin-bottom:8em;" >
 
